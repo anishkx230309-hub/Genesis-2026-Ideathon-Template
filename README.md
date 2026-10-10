@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I074
 ### Team Details
-#### **Team Name <<TEAM MAYRIX>>** <br/>
+#### **Team Name** **TEAM MAYRIX** <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme    |        HOSTEL       |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------:|
